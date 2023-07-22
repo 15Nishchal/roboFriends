@@ -1,30 +1,30 @@
 export const robots = [
     {
         id: 1,
-        name: 'Nishchal Gupta',
-        username: '__NTrav',
-        email: 'nishchal@gmail.com'
+        name: 'Denis',
+        username: 'DenisRitchie',
+        email: 'dritchie@.com'
     },
 
     {
         id: 2,
         name: "Raj Gupta",
-        username: "__RajTraveler",
+        username: "rajG",
         email: "raj@gmail.com",
     },
 
     {
         id: 3,
-        name: "Aniket Modi",
-        username: "__MEA_Aniket",
-        email: "aniket@gmail.com",
+        name: "Albert",
+        username: "AlberT",
+        email: "albert@gmail.com",
     },
 
     {
         id: 4,
-        name: "Abhishek Modi",
-        username: "__Software_Developer",
-        email: "abhi@gmail.com",
+        name: "Thomas Shelby",
+        username: "ShelbyBrothers",
+        email: "tshelby@gmail.com",
     },
     {
         id: 5,
