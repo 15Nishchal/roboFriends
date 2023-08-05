@@ -35,7 +35,7 @@ class App extends Component{
 
         return (
             <div className = 'tc'>
-                <h1>RoboFriends</h1>
+                <h1 style = {{color:'peach', fontWeight: 'bold'}}>RoboFriends</h1>
                 <SearchBox searchChange = {this.onSearchChange}/>
                 <Scroll>
                 <CardList robots = {filteredRobots}/>
